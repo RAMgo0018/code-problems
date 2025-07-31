@@ -2,7 +2,7 @@
 
 | Topic Name | Number of Problems Solved |
 |------------|----------------------------|
-| [Arrays](./Arrays) | 16 |
+| [Arrays](./Arrays) | 12 |
 | [Bit Manipulation](./Bit_Manipulation) | 23 |
 | [Strings](./Strings) | 6 |
 | [Math](./Math) | 4 |
