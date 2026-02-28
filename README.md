@@ -6,13 +6,14 @@
 |------------|---------------------------|
 | [Arrays](./Arrays) | 28 |
 | [Binary Search](./BinarySearch) | 27 |
-| [Binary Trees](./Binary_Trees) | 15 |
+| [Binary Trees](./Binary_Trees) | 22 |
 | [Greedy](./Greedy) | 10 |
 | [Linked List](./LinkedList) | 38  |
 | [Stacks](./Stacks) | 5 |
 | [Sliding Window](./SlidingWindow) | 12 |
 | [Sorting](./Sorting) | 5|
 | [Strings](./Strings) | 15|
+| [DynamicProgramming](./DynamicProgramming) | 15|
 
 
 ---
