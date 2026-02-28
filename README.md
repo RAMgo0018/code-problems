@@ -14,6 +14,7 @@
 | [Sorting](./Sorting) | 5|
 | [Strings](./Strings) | 15|
 | [DynamicProgramming](./DynamicProgramming) | 15|
+| [Binary Search Tree](./BinarySearchTree) | 17 |
 
 
 ---
