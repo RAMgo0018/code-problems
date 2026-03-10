@@ -15,6 +15,7 @@
 | [Strings](./Strings) | 15|
 | [DynamicProgramming](./DynamicProgramming) | 15|
 | [Binary Search Tree](./BinarySearchTree) | 17 |
+| [Graphs](./Graphs) | 20 |
 
 
 ---
